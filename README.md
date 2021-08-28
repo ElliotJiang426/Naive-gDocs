@@ -3,10 +3,10 @@
 Enter your team members here:
 
 ```
-[Leader]   518021910550 - 江玙璠: 55%
-[Member 1] 518021910602 - 陈嘉轩: 15%
-[Member 2] 518021911138 - 沈佳威: 15%
-[Member 3] 518021911178 - 朱益成: 15%
+[Leader]   江玙璠
+[Member 1] 陈嘉轩
+[Member 2] 沈佳威
+[Member 3] 朱益成
 ```
 
 where `X, Y, Z` represent the workload and  `X+Y+Z = 100` .
