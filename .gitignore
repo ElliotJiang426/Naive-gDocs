@@ -1,0 +1,10 @@
+# enter the files/directories that do not need to be committed
+*.class
+*.exe
+*.o
+code/backend/data
+code/backend/log
+.vscode/
+.idea/
+target/
+.DS_Store
